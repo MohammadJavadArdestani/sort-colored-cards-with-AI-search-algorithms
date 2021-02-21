@@ -1,0 +1,45 @@
+4 5 5
+5g 4g 3g 2r 1g
+5r 4r 3r 2g 1r
+#
+#
+
+5 3 5
+5g 5r 4y
+2g 4r 3y 3g 2y
+1y 4g 1r
+1g 2r 5y 3r
+#
+
+5 3 3
+#
+2G 3Y 3G 2Y
+1Y 1R
+1G 2R 3R
+#
+
+5 5 5
+5g 5r
+2g 4r 3y 3g 2y
+1y 4g 1r 
+1g 2r 5y 3r 
+4y
+
+
+4 5 5
+5g 4g 3g 2r 1g
+5r 4r 3r 2g 1r
+#
+#
+
+4 5 6
+#
+4f 5g 1h
+3k 5l 6o
+#
+
+# sort-colored-cards-with-AI-search-algorithms
+
+### here we use A*, IDS and BFS to sort colored cards in ascending order.
+in the initial state, we have different unsorted decks of cards(they could have different colors), and as output, you get sorted cards with the same color in each deck.</br>
+you can run the same test case on each algorithm to understand the great effect of heuristic function on decreasing computation time by creating fewer nodes in comparison with BFS and IDS.

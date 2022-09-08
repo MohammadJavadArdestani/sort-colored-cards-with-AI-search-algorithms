@@ -1,4 +1,4 @@
-# Sort cClored Cards with AI Search Algorithms
+# Sort Clored Cards with AI Search Algorithms
 
 Here I used A*, IDS, and BFS to sort colored cards in ascending order.
 <br>
